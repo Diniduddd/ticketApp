@@ -1,0 +1,13 @@
+{
+  "name": "incube8-react-template",
+  "version": "1.0.0",
+  "description": "Have fun!",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/4xk1l5o6n7",
+  "main": "index.js",
+  "dependencies": {
+    "react-dom": "16.0.0",
+    "react": "16.0.0",
+    "prop-types": "15.6.0"
+  }
+}
